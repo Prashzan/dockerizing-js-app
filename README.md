@@ -1,6 +1,6 @@
-# dockerizing-js-app
+## dockerizing js app and running with docker compose
 
-## This project consist of a nodejs app which is just a simple js app, a dockerfile to create a image out of nodejs app and a docker compose file which listed 3 images, one image is the custome nodejs image created form dockerfile and other 2 images are for mongodb database and mongo-express ui which are private images hosted on dockerhub private repository
+### This project consist of a nodejs app which is just a simple js app, a dockerfile to create a image out of nodejs app and a docker compose file which listed 3 images, one image is the custome nodejs image created form dockerfile and other 2 images are for mongodb database and mongo-express ui which are private images hosted on dockerhub private repository
 
 
 ### First build the custom nodejs image 
